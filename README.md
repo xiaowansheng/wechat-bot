@@ -18,7 +18,7 @@
 
 欢迎大家提交 PR 接入更多的 ai 服务(比如扣子等...)，积极贡献更好的功能实现，让 wechat-bot 变得更强！
 
-## 注意：最近微信对此审查变得非常严格，使用默认的协议有微信警告或者封号的风险，请大家谨慎使用，关于 padlocal ，这个协议的作者没有继续维护，大家可以自行切换更稳定的协议。  
+## 注意：最近微信对此审查变得非常严格，使用默认的协议有微信警告或者封号的风险，请大家谨慎使用，关于 padlocal ，这个协议的作者没有继续维护，大家可以自行切换更稳定的协议。
 
 ![](https://github.com/user-attachments/assets/1c312cf4-73d8-44a1-8f36-5ea288ac0aa4)
 
@@ -151,17 +151,10 @@
   <table>
     <!-- Header -->
     <tr>
-      <td align="center" width="50%">
+      <td align="center">
         <p align="center">
-          <a href="https://91api.dev/register?aff=9P6u" target="_blank">
-            <img src="./sponsors/91api.jpg" alt="91Api" width="300px"/>
-          </a>
-        </p>
-      </td>
-      <td align="center" width="50%">
-        <p align="center">
-          <a href="https://www.compshare.cn/model-api?ytag=GPU_YY-gh_wechatbot" target="_blank">
-            <img src="./sponsors/Ucloud.png" alt="UCloud" width="300px"/>
+          <a href="https://api.shenfengwl.fun/" target="_blank">
+            <img src="./sponsors/shenfengwl.png" alt="深风网络" width="500px"/>
           </a>
         </p>
       </td>
@@ -169,12 +162,8 @@
     <!-- Description -->
     <tr>
       <td align="left">
-        一站式集成 500+主流大模型中转聚合API平台，高效稳定，高并发，价格超低
-        <a href="https://91api.dev/register?aff=9P6u" target="_blank">产品链接</a>
-      </td>
-      <td align="left">
-        万卡RTX40系GPU+海内外主流模型API服务，秒级响应，按量计费，新客免费用。
-        <a href="https://www.compshare.cn/model-api?ytag=GPU_YY-gh_wechatbot" target="_blank">产品链接</a>
+        主营海外主流大模型中转聚合API平台，高效稳定，高并发，价格超低
+        <a href="https://api.shenfengwl.fun/" target="_blank">产品链接</a>
       </td>
     </tr>
   </table>
